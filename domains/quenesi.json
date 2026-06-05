@@ -3,6 +3,11 @@
     "username": "mishamario92"
   },
   "records": {
-    "CNAME": "quenesi.pages.dev"
+    "CNAME": "quenesi.pages.dev",
+    "NS": [
+      "albert.ns.cloudflare.com",
+      "aspen.ns.cloudflare.com"
+    ]
   }
+  "proxied": true
 }
